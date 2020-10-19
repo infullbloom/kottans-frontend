@@ -21,6 +21,7 @@ As a result, now I'm not limited to few commands.
 </p>
 
 </details>
+
 ### Learn Git Branching
 
 This was challenging sometimes, but I managed to get through it :D  
