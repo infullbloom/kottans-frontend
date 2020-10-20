@@ -4,6 +4,7 @@
 
 * [Git Basics](#git-basics)
 * [Linux CLI, and HTTP](#linux-cli-and-http)
+* [Git Collaboration](#git-collaboration)
 
 ## Git Basics
 
@@ -68,5 +69,23 @@ I plan to use commands `mkdir`, `rm`, `rmdir`, `mv` and `pwd` next time when I n
 ### HTTP: The Protocol Every Web Developer Must Know
 
 These articles weren't a piece of cake. Overall, now I have a clue what HTTP stands for and how client and server communicate. Also, I have discovered new status codes except 404, 403 and 500 that I have encountered before. I will definitely go back to them later on and search for additional information covered in these articles.
+
+---
+
+## Git Collaboration
+
+This course was extremely helpful to me. Thanks to it, I managed to make my first pull request. Also, I have learned how to update my forked repository, make changes to my pull request, sort commits by authors. In addition, I have improved my knowledge about `git rebase -i`.
+
+<details>
+
+<summary>Screenshot</summary>
+
+<p>
+
+![screenshot of the course "github and collaboration"](task_git_collaboration/github_and_collaboration.png)
+
+</p>
+
+</details>
 
 ---
