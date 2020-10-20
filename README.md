@@ -2,8 +2,8 @@
 
 ### General
 
-* Git Basics
-* Linux CLI, and HTTP
+* [Git Basics](#git-basics)
+* [Linux CLI, and HTTP](#linux-cli-and-http)
 
 ## Git Basics
 
