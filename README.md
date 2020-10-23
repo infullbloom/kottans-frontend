@@ -9,6 +9,7 @@
 ### Front-End Basics
 
 * [Intro to HTML and CSS](#intro-to-html-and-css)
+* [Responsive Web Design](#responsive-web-design)
 
 ## Git Basics
 
@@ -107,6 +108,42 @@ These courses have helped me to refresh my knowledge about HTML and CSS. Most of
 ![screenshot 1 udacity](task_html_css_intro/udacity.png)
 ![screenshot 2 codecademy learn html](task_html_css_intro/codecademy_html.png)
 ![screenshot 3 codecademy learn css](task_html_css_intro/codecademy_css.png)
+
+</p>
+
+</details>
+
+---
+
+## Responsive Web Design
+
+### Responsive Web Design Fundamentals
+
+The course on Udacity has introduced me for some aspects about responsiveness such as difference between hardware pixels and device independent pixels (DPI) , how to calculate viewport. Also, I've learned that tap targets should be 48 pixels in width and height and text should be 65 characters per line. I intend to follow these rules in my projects. The responsive patterns covered in the course were new to me. Besides, I refreshed my knowledge about media queries and flexbox.
+
+<details>
+
+<summary>Screenshot</summary>
+
+<p>
+
+![screenshot 1 udacity](task_responsive_web_design/responsive_web_design_fundamentals.png)
+
+</p>
+
+</details>
+
+### Flexbox flexbox_froggy
+
+I have completed this game several times in the past, so this task didn't take much time to complete this time, but was still engaging. 
+
+<details>
+
+<summary>Screenshot</summary>
+
+<p>
+
+![screenshot 2 flexboxfroggy](task_responsive_web_design/flexbox_froggyl.png)
 
 </p>
 
