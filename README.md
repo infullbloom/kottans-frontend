@@ -6,6 +6,10 @@
 * [Linux CLI, and HTTP](#linux-cli-and-http)
 * [Git Collaboration](#git-collaboration)
 
+### Front-End Basics
+
+* [Intro to HTML and CSS](#intro-to-html-and-css)
+
 ## Git Basics
 
 ### Version Control with Git
@@ -83,6 +87,26 @@ This course was extremely helpful to me. Thanks to it, I managed to make my firs
 <p>
 
 ![screenshot of the course "github and collaboration"](task_git_collaboration/github_and_collaboration.png)
+
+</p>
+
+</details>
+
+---
+
+## Intro to HTML and CSS
+
+These courses have helped me to refresh my knowledge about HTML and CSS. Most of the material wasn't new to me. Despite, I have almost forgotten how to make drop-down lists and datalists. Also, I have never worked with CSS Grid before, so the material about this topic was new to me.
+
+<details>
+
+<summary>Screenshots</summary>
+
+<p>
+
+![screenshot 1 udacity](task_html_css_intro/udacity.png)
+![screenshot 2 codecademy learn html](task_html_css_intro/codecademy_html.png)
+![screenshot 3 codecademy learn css](task_html_css_intro/codecademy_css.png)
 
 </p>
 
