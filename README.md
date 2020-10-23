@@ -143,7 +143,7 @@ I have completed this game several times in the past, so this task didn't take m
 
 <p>
 
-![screenshot 2 flexboxfroggy](task_responsive_web_design/flexbox_froggyl.png)
+![screenshot 2 flexboxfroggy](task_responsive_web_design/flexbox_froggy.png)
 
 </p>
 
